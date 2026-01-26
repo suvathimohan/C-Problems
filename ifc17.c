@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main(){
+    int n=15;
+    if(n>=10 && n<=20){
+        printf("Number is within range");
+    }
+    else{
+        printf("Number is Not within range");
+    }
+}
